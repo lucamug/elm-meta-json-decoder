@@ -38,7 +38,7 @@ init : ( Model, Cmd Msg )
 init =
     ( { metaThings = Nothing
       , metaThingsApiError = Nothing
-      , metaThingsApiUrl = "http://api.jsoneditoronline.org/v1/docs/3e4dbce6f34017948c0a5ea43bcaf141"
+      , metaThingsApiUrl = "https://api.jsoneditoronline.org/v1/docs/3e4dbce6f34017948c0a5ea43bcaf141"
       , metaThingsApiStatus = NotFetchedYet
       }
     , Cmd.none

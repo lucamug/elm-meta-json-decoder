@@ -13454,7 +13454,7 @@ var _lucamug$elm_meta_json_decoder$Main$Fetching = {ctor: 'Fetching'};
 var _lucamug$elm_meta_json_decoder$Main$NotFetchedYet = {ctor: 'NotFetchedYet'};
 var _lucamug$elm_meta_json_decoder$Main$init = {
 	ctor: '_Tuple2',
-	_0: {metaThings: _elm_lang$core$Maybe$Nothing, metaThingsApiError: _elm_lang$core$Maybe$Nothing, metaThingsApiUrl: 'http://api.jsoneditoronline.org/v1/docs/3e4dbce6f34017948c0a5ea43bcaf141', metaThingsApiStatus: _lucamug$elm_meta_json_decoder$Main$NotFetchedYet},
+	_0: {metaThings: _elm_lang$core$Maybe$Nothing, metaThingsApiError: _elm_lang$core$Maybe$Nothing, metaThingsApiUrl: 'https://api.jsoneditoronline.org/v1/docs/3e4dbce6f34017948c0a5ea43bcaf141', metaThingsApiStatus: _lucamug$elm_meta_json_decoder$Main$NotFetchedYet},
 	_1: _elm_lang$core$Platform_Cmd$none
 };
 var _lucamug$elm_meta_json_decoder$Main$ChangeMetaThingsApi = function (a) {
